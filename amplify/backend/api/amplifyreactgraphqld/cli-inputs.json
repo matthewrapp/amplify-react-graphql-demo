@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyreactgraphqld",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/matthewrapp/Documents/Github/Projects/amplify-react-graphql-demo/amplify/backend/api/amplifyreactgraphqld/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
