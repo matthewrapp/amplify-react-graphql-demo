@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { withAuthenticator } from '@aws-amplify/ui-react-v1';
+import { withAuthenticator } from '@aws-amplify/ui-react';
 
 import { API, graphqlOperation } from '@aws-amplify/api';
 import { listTodos } from './graphql/queries';
